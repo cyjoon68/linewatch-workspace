@@ -1,0 +1,5 @@
+services:
+  linewatch-fe:
+    build: ./linewatch-fe
+  linewatch-be:
+    build: ./linewatch-be
