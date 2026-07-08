@@ -1,0 +1,8 @@
+[submodule "linewatch-fe"]
+	path = linewatch-fe
+	url = https://github.com/linewatch-labs/linewatch-fe.git
+	branch = develop
+[submodule "linewatch-be"]
+	path = linewatch-be
+	url = https://github.com/linewatch-labs/linewatch-be.git
+	branch = develop
